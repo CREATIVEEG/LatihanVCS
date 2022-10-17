@@ -49,4 +49,17 @@ Remote Repository ini digunakan untuk menyimpan atau memasukan perubahan file ya
 **git remote add origin [URL]**<br />
 Masukan URL github yang telah kita buat pada server repository tadi
 ![images.png](https://user-images.githubusercontent.com/115677376/196132324-12bd4da9-d07d-431e-803e-d1a00110449e.png)<br /><br />
-• Untuk mengirim perubahan yang telah kita buat di Repository Local, masukan cmd yaitu
+• Untuk mengirim perubahan yang telah kita buat di Repository Local, masukan cmd yaitu<br />
+**git push -u add origin master**<br />
+![images.png](https://user-images.githubusercontent.com/115677376/196143195-fd7ef5e6-67a2-4d86-88b8-577b2312044a.png)<br /><br />
+• Setelah itu, akan muncul sebuah pop up, untuk melanjutkan memasukan respository local kita ke server<br />
+![images.png](https://user-images.githubusercontent.com/115677376/196143235-7ec79bc5-5826-4505-b56c-cbd58cf654a8.png)<br /><br />
+• Masukkan Username dan password yang telah dibuat tadi, dan berikan akses ke respository server kita<br />
+![images.png](https://user-images.githubusercontent.com/115677376/196143239-c13f4819-b8ee-483f-9040-4f1e43e56236.png)<br />
+![images.png](https://user-images.githubusercontent.com/115677376/196143243-aaedcce5-ffab-4ff3-8bd8-f0f5c00b0ccb.png)<br /><br />
+• Jika sudah refresh browser kalian, dan akhirnya... Kita sudah berhasil memasukan repository local kita kedalam server. Selanjutkan kalian bisa mengedit isi dari README.md, dengan menekan icon pensil
+![images.png](https://user-images.githubusercontent.com/115677376/196143245-c12f6b58-414e-4a10-895e-266bfc4d3147.png)<br /><br />
+Selesai... Baiklah, sekian tugas membuat tutorial dari saya. Jika ada kesalahan kata atau kekurangan dalam konten saya meminta maaf yang sebesar-besarnya. Terimakasih...<br />
+**Nama  :** Rhendy Diki Nugraha
+**Kelas :** TI.22.A1
+**Dosen :** Agung Nugroho, S.Kom, M.Kom
