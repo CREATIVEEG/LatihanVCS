@@ -59,7 +59,7 @@ Masukan URL github yang telah kita buat pada server repository tadi
 ![images.png](https://user-images.githubusercontent.com/115677376/196143243-aaedcce5-ffab-4ff3-8bd8-f0f5c00b0ccb.png)<br /><br />
 • Jika sudah refresh browser kalian, dan akhirnya... Kita sudah berhasil memasukan repository local kita kedalam server. Selanjutkan kalian bisa mengedit isi dari README.md, dengan menekan icon pensil
 ![images.png](https://user-images.githubusercontent.com/115677376/196143245-c12f6b58-414e-4a10-895e-266bfc4d3147.png)<br /><br />
-Selesai... Baiklah, sekian tugas membuat tutorial dari saya. Jika ada kesalahan kata atau kekurangan dalam konten saya meminta maaf yang sebesar-besarnya.<br /> Terimakasih...<br />
+Selesai... Baiklah, sekian tugas membuat tutorial dari saya. Jika ada kesalahan kata atau kekurangan dalam konten saya meminta maaf yang sebesar-besarnya.<br /> Terimakasih...<br /><br />
 **Nama  :** Rhendy Diki Nugraha<br />
 **Kelas :** TI.22.A1<br />
 **Dosen :** Agung Nugroho, S.Kom, M.Kom<br />
